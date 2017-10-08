@@ -27,7 +27,7 @@
  ###作图
  
  [code](./untitle6.py)
- [](./JUL8DFG19R{7GS@W9~IJ8OE.png)
+ [picture](./JUL8DFG19R{7GS@W9~IJ8OE.png)
  
  ###结论
  
