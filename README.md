@@ -8,4 +8,4 @@
 
 [.] [Exercise 02 move](./untitled5.py)        [image](./IMG_0818(20170924-143540).jpg)
 
-[.] Exercise 03 unit1 1.2(./exercise)                   [code](./untitled6.py)
+[.] Exercise 03 unit1 1.2(./exercise.md)                   [code](./untitled6.py)
