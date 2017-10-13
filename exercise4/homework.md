@@ -27,7 +27,8 @@ Value of the angle that gives the maximum range.
  依照公式画图[code](./exercise4/untitled2.py)
  
  ### 画图（不同角度）
- <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/exercise4/%7BSK%40%25N20CRDNU1%25V%7DB%25E4SW.png">
+
+<img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/exercise4/%7BSK%40%25N20CRDNU1%25V%7DB%25E4SW.png">
  
  ### 结论
  * 1.炮弹发射下落轨迹为抛物线，空气阻力和发射角度作用后，形状依然类似抛物线
