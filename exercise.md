@@ -1,13 +1,13 @@
 
 ## UNIT 1 *exercise 1.2
-*班级：物基二班
+* 班级：物基二班
 
-*学号：2015301020131
+* 学号：2015301020131
 
-*姓名：高伟康
+* 姓名：高伟康
 
 ### 摘要
-*用欧勒法解决匀速运动中的位移与时间关系
+* 用欧勒法解决匀速运动中的位移与时间关系
 ### 1.1.2
  The position of an object moving horizontally with aconstant velocity,<img src="http://latex.codecogs.com/gif.latex?\nu">,is discribed by the equation
  
@@ -18,11 +18,11 @@
  
  ### 公式推导
  
- *式子泰勒展开取一阶项：
+ * 式子泰勒展开取一阶项：
  
  <img src="http://latex.codecogs.com/gif.latex?x(t+\Delta t) = x(t)+\frac{dx}{dt}\Delta t">
  
- *由于( * )式，用<img src="http://latex.codecogs.com/gif.latex?\nu">代替<img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}">：
+ * 由于( * )式，用<img src="http://latex.codecogs.com/gif.latex?\nu">代替<img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}">：
  
  <img src="http://latex.codecogs.com/gif.latex?x(t+\Delta t) = x(t)+\nu \Delta t">
  
