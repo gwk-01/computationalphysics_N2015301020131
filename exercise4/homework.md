@@ -17,10 +17,13 @@ Value of the angle that gives the maximum range.
 <img src="http://latex.codecogs.com/gif.latex?F\,=\,F(y,\nu\,)">
 
 * 应用欧拉法有：
+
 <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/exercise4/21T%253PH%7B%605E_GI0%5D9_G6_KJ.png">
 
 * 由空气阻力公式：
+
 <img src="http://latex.codecogs.com/gif.latex?f(\upsilon\,,y)\,=\,-(1-\frac{A_{y}}{T_{0}})^{\alpha\,}B_{2}\upsilon^{2}">
+ 
  依照公式画图[code](./exercise4/untitled2.py)
  
  ### 画图（不同角度）
