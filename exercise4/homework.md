@@ -21,7 +21,7 @@ Value of the angle that gives the maximum range.
 
 * 由空气阻力公式：
 <img src="http://latex.codecogs.com/gif.latex?f(\upsilon\,,y)\,=\,-(1-\frac{A_{y}}{T_{0}})^{\alpha\,}B_{2}\upsilon^{2}">
- 依照公式画图[code](./exercise4/untitled2.py)
+ 依照公式画图[code](./untitled2.py)
  
  ### 画图（不同角度）
  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/exercise4/%7BSK%40%25N20CRDNU1%25V%7DB%25E4SW.png">
