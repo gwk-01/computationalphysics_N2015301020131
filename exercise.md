@@ -29,7 +29,7 @@
  ### 作图
  
  [code](./untitle6.py)
- [picture](./JUL8DFG19R{7GS@W9~IJ8OE.png)
+ [picture](https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/JUL8DFG19R%7B7GS%40W9~IJ8OE.png)
  
  ### 结论
  
