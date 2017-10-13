@@ -14,17 +14,17 @@
  <img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=\nu"> (*)
  
  Assuming that the velocity is a constant,say <img src="http://latex.codecogs.com/gif.latex?\nu">=40 m/s,use the Euler method to solve for x as a functionof time.Compare your result with the exact solution.
- 
+
  
  ### 公式推导
  
  * 式子泰勒展开取一阶项：
  
- <img src="http://latex.codecogs.com/gif.latex? x(t+\Delta t) = x(t)+\frac{dx}{dt}\Delta t">
+ <img src="http://latex.codecogs.com/gif.latex?x(t+\Deltat)=x(t)+\frac{dx}{dt}\Deltat">
  
  * 由于( * )式，用<img src="http://latex.codecogs.com/gif.latex?\nu">代替<img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}">：
  
- <img src="http://latex.codecogs.com/gif.latex? x(t+\Delta t) = x(t)+\nu \Delta t">
+ <img src="http://latex.codecogs.com/gif.latex?x(t+\Deltat)=x(t)+\nu\Deltat">
  
  ### 作图
  
