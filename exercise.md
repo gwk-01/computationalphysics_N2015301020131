@@ -20,11 +20,11 @@
  
  * 式子泰勒展开取一阶项：
  
- <img src="http://latex.codecogs.com/gif.latex?x(t+\Delta t) = x(t)+\frac{dx}{dt}\Delta t">
+ <img src="http://latex.codecogs.com/gif.latex? x(t+\Delta t) = x(t)+\frac{dx}{dt}\Delta t">
  
  * 由于( * )式，用<img src="http://latex.codecogs.com/gif.latex?\nu">代替<img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}">：
  
- <img src="http://latex.codecogs.com/gif.latex?x(t+\Delta t) = x(t)+\nu \Delta t">
+ <img src="http://latex.codecogs.com/gif.latex? x(t+\Delta t) = x(t)+\nu \Delta t">
  
  ### 作图
  
