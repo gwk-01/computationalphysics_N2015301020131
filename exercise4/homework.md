@@ -11,7 +11,7 @@ Reduced air density at high altitudes so that you can reproduce the results in
 Figure2.5.Perform your calculation for different firing angles and determine the 
 Value of the angle that gives the maximum range.
 
-###解：
+### 解：
 * 首先，设空气阻力为
 
 <img src="http://latex.codecogs.com/gif.latex?F\,=\,F(y,\nu\,)">
@@ -23,5 +23,9 @@ Value of the angle that gives the maximum range.
 <img src="http://latex.codecogs.com/gif.latex?f(\upsilon\,,y)\,=\,-(1-\frac{A_{y}}{T_{0}})^{\alpha\,}B_{2}\upsilon^{2}">
  依照公式画图[code](./untitled.py)
  
- ###画图（不同角度）
- <img src="">
+ ### 画图（不同角度）
+ <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/exercise4/%7BSK%40%25N20CRDNU1%25V%7DB%25E4SW.png">
+ 
+ ### 结论
+ * 1.炮弹发射下落轨迹为抛物线，空气阻力和发射角度作用后，形状依然类似抛物线
+ * 2.空气阻力会使炮弹提前下落，高空时空气阻力减小，空气阻力影响变小
