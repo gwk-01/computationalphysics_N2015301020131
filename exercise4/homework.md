@@ -13,3 +13,8 @@ Value of the angle that gives the maximum range.
 
 ###解：
 * 首先，设空气阻力为
+
+<img src="http://latex.codecogs.com/gif.latex?F\,=\,F(y,\nu\,)">
+
+* 应用欧拉法有：
+<img src="">
