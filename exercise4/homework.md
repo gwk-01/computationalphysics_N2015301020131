@@ -38,4 +38,4 @@ Value of the angle that gives the maximum range.
 
 
 ### 鸣谢：
-夏海峰学长
+夏海峰学长（https://github.com/gwk-01/Computional_Physics_2013301020094）
