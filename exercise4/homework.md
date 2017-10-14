@@ -37,5 +37,5 @@ Value of the angle that gives the maximum range.
 
 
 
-* 鸣谢：
+### 鸣谢：
 夏海峰学长
