@@ -29,6 +29,7 @@ Value of the angle that gives the maximum range.
  ### 画图（不同角度）
 
 <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/exercise4/%7BSK%40%25N20CRDNU1%25V%7DB%25E4SW.png">
+ 
  * 从图中可以看出，45度时炮弹打出最远距离
  
  ### 结论
