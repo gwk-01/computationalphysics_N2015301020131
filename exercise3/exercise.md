@@ -31,6 +31,8 @@
  [code](./untitle6.py)
  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/JUL8DFG19R%7B7GS%40W9~IJ8OE.png">
  
+ * 从图中看出，x与t近似为正比例关系
+ 
  ### 结论
  
  匀速直线运动位移与时间成正比，符合实际
