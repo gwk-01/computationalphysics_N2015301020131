@@ -3,7 +3,7 @@
 * 姓名：高伟康（2015301020131）
 
 ### 摘要
-* 描述用欧拉法解炮弹在有无空气阻力及空气阻力有无变化时的炮弹轨迹
+* 描述用欧拉法解炮弹在有无空气阻力及空气阻力有无变化时不同角度的炮弹轨迹
 
 ### 题目（2.9）
 * Calculate the trajectory of your cannon shell including both air drag and the 
