@@ -30,6 +30,7 @@ Value of the angle that gives the maximum range.
 
 <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/exercise4/%7BSK%40%25N20CRDNU1%25V%7DB%25E4SW.png">
  * 从图中可以看出，45度时炮弹打出最远距离
+ 
  ### 结论
  * 1.炮弹发射下落轨迹为抛物线，空气阻力和发射角度作用后，形状依然类似抛物线
  * 2.空气阻力会使炮弹提前下落，高空时空气阻力减小，空气阻力影响变小
