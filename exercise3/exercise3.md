@@ -28,7 +28,7 @@
  
  ### 作图
  
- [code](./untitled6.py)
+ [code](https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/untitled6.py)
  
  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/JUL8DFG19R%7B7GS%40W9~IJ8OE.png">
  
