@@ -11,7 +11,8 @@
 ### 1.1.2
  The position of an object moving horizontally with aconstant velocity,<img src="http://latex.codecogs.com/gif.latex?\nu">,is discribed by the equation
 
-$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$
+$$\sum_{i=0}^n i^2 = \frac{(n^2+n)(2n+1)}{6}$$
+
 
  <img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=\nu"> (*)
  
