@@ -10,7 +10,7 @@
 * 用欧勒法解决匀速运动中的位移与时间关系
 ### 1.1.2
  The position of an object moving horizontally with aconstant velocity,<img src="http://latex.codecogs.com/gif.latex?\nu">,is discribed by the equation
- 
+ $$\nu$$
  <img src="http://latex.codecogs.com/gif.latex?\frac{dx}{dt}=\nu"> (*)
  
  Assuming that the velocity is a constant,say <img src="http://latex.codecogs.com/gif.latex?\nu">=40 m/s,use the Euler method to solve for x as a functionof time.Compare your result with the exact solution.
