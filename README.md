@@ -11,3 +11,5 @@
 - [x]  [Exercise 03 unit1 1.2](./exercise3/exercise3.md)                  [code](./untitled6.py)
 
 - [x]  [Exercise 04 unit2 2.9](./exercise4/homework.md)
+
+- [x] [Exercise 05 unit2.2.19](./exercise5/2.19.md)
