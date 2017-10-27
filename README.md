@@ -13,3 +13,5 @@
 - [x]  [Exercise 04 unit2 2.9](./exercise4/homework.md)
 
 - [x] [Exercise 05 unit2.2.19](./exercise5/2.19.md)
+
+- [x] [Exercise 06 unit3.3.13](./exercise6/3.13.md)
