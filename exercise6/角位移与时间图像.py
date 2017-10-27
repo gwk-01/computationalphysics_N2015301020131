@@ -32,10 +32,7 @@ while (t[i]<50) :
         o[i]= o[i]-2*pi
     while o[i]<(-pi):
         o[i]=o[i]+2*pi
-    while o1[i]>pi:
-        o1[i]= o1[i]-2*pi
-    while o1[i]<(-pi):
-        o1[i]=o1[i]+2*pi   
+   
     
   
        
