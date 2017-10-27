@@ -38,6 +38,6 @@ while (t[i]<50) :
   
        
 
-plt.scatter(t,slope,marker = '.')
+plt.plot(t,o)
 
 plt.show()                                                                                                                                                                                                
