@@ -1,6 +1,8 @@
+
 import matplotlib.pyplot as plt
 from math import*
-
+from pylab import *
+    
 q = 0.5
 l=g=9.8
 D = 2/3 
@@ -38,6 +40,9 @@ while (t[i]<50) :
   
        
 
-plt.plot(t,o)
 
-plt.show()                                                                                                                                                                                                
+plt.plot(t,o,label ="theta and time")
+legend(loc='upper right')
+
+
+plt.show()       
