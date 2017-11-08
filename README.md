@@ -15,4 +15,4 @@
 - [x] [Exercise 05 unit2.2.19](./exercise5/2.19.md)
 
 - [x] [Exercise 06 unit3.3.13](./exercise6/3.13.md)
-- [ ] [Exercise 07 mid pygame](./pygame)
+- [ ] [Exercise 07 mid pygame](./exercise7/3.26.md)
