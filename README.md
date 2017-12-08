@@ -18,4 +18,5 @@
 - [x] [Exercise 07 unit3 3.26](./exercise7/3.26.md)
 - [x] [Mid Test:Pygame](./pygame/pygame.md)
 - [x] [Exercise 08 unit3 3.33](./exercise8/3.33.md)
-- [ ] [Exercise 09 unit4 4.16](./exercise9/4.16.md)
+- [x] [Exercise 09 unit4 4.16](./exercise9/4.16.md)
+- [x] [Exercise 10 unit5 5.3](./exercise10/5.3.md)
