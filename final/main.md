@@ -36,14 +36,29 @@ that this profile extends over at least several grid sites.Then show that at lat
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/9D5~%5DU(NI_%25G4_4SZ_%25%60IKC.png">
   
-* 因此，我们认为自由扩散与随机行走本质相同
+### 因此，我们认为自由扩散与随机行走本质相同
 
 * 将一维扩散扩展到二维情形,即奶油溶于咖啡的问题
+  同理，概率为
   
-  [代码](./二维扩散.py)
+  <img src="http://latex.codecogs.com/gif.latex?P(x,y,t)\,=\,\frac{1}{4}[P(x-1,y,t-1)+P(x+1,y,t-1)+P(x,y-1,t-1)+P(x,y+1,t-1)]">
+  
+  扩散方程为
+  
+  <img src="http://latex.codecogs.com/gif.latex?\frac{\partial\,P(x,y,t)}{\partial\,t}=D\bigtriangledown\,^{2}P(x,y,t)">
+  
+  这里依然采用随机行走的方法画图，假设一共有1521个粒子，最初稳定整齐排列
+  
+  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/_NZ8QN~U1S72WH7EET(I%7D6J.png">
+  
+  10000秒后 [代码](./二维扩散.py)
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/T%24CD6Q%60CP6SY%609%40G%40%25QDCQH.png">
 
+* 此时系统中粒子的径向分布为
+  
+  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%24L4M%24(%5BXNYGZ%5DVQ%40I%24%7B7N2I.png">
+  
 * 再扩展到三维情形
   
   [代码](./三维扩散.py)
