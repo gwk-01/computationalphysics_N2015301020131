@@ -41,7 +41,7 @@ that this profile extends over at least several grid sites.Then show that at lat
 * 将一维扩散扩展到二维情形,即奶油溶于咖啡的问题
 * 同理，概率为
   
-  <img src="http://latex.codecogs.com/gif.latex?P(x,y,t)\,=\,\frac{1}{4}[P(x-1,y,t-1)+P(x+1,y,t-1)+P(x,y-1,t-1)+P(x,y+1,t-1)]">
+* <img src="http://latex.codecogs.com/gif.latex?P(x,y,t)\,=\,\frac{1}{4}[P(x-1,y,t-1)+P(x+1,y,t-1)+P(x,y-1,t-1)+P(x,y+1,t-1)]">
   
 * 扩散方程为
   
