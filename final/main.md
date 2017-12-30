@@ -1,7 +1,10 @@
 ## From random-walk to free-diffusion
 * 班级：物基二班
 * 姓名：高伟康
-
+### 摘要： 
+    用随机行走模拟自由扩散，并比较随机行走得到的结果与自由扩散公式算出的结果
+### 关键词：
+    自由扩散 随机行走
 ### 题目
 * Write a program to solve the finite-difference form of the diffusion equation in one dimension,(7.21).Use it to confirm that(7.22)
 is,indeed a solution.To do this,begin with an initial density profile that is sharply peaked at x=0,but choose the grid size such 
