@@ -36,7 +36,7 @@ class walker:
             data_y.append(x_count.count(j))
       
 a=walker()
-a.posible(100,10000)
+a.posible(T,10000)
 print(data_x,data_y)
 plt.plot(data_x,data_y)
         
