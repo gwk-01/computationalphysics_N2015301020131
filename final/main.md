@@ -63,7 +63,7 @@ that this profile extends over at least several grid sites.Then show that at lat
 * 此时系统中粒子的径向分布为(粒子数太少，猜想系综分布应该接近玻尔兹曼分布)[代码](./二维扩散径向.py)
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%24L4M%24(%5BXNYGZ%5DVQ%40I%24%7B7N2I.png">
-  
+  横坐标为径向，纵坐标为粒子数
 * 再扩展到三维情形
 * 扩散方程不变
   
@@ -86,6 +86,7 @@ that this profile extends over at least several grid sites.Then show that at lat
 * 径向分布（移动步数较少，但还可以看出分布）
 [代码](./三维扩散径向.py) 
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/)IW8UT)P7%7B2G_B32%7DA)%24XUL.png">
+    横坐标为径向，纵坐标为粒子数
 ### 结论
 
 * 扩散行为是大量微观粒子随机位移的结果，最终分布符合扩散方程
