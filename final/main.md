@@ -60,7 +60,7 @@ that this profile extends over at least several grid sites.Then show that at lat
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/T%24CD6Q%60CP6SY%609%40G%40%25QDCQH.png">
 
-* 此时系统中粒子的径向分布为(猜想系综分布应该接近玻尔兹曼分布)[代码](./二维扩散径向.py)
+* 此时系统中粒子的径向分布为(粒子数太少，猜想系综分布应该接近玻尔兹曼分布)[代码](./二维扩散径向.py)
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%24L4M%24(%5BXNYGZ%5DVQ%40I%24%7B7N2I.png">
   
@@ -77,11 +77,15 @@ that this profile extends over at least several grid sites.Then show that at lat
  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/93%5D2DQLZ149%7BPHTIH54A%5D%40X.png">
 
 
-* 100秒后（等待时间太长）
+* 100秒后（10000秒等待时间太长）
   
   [代码](./三维扩散.py)
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%255PW5BOAC%24V90V2WD77)Q6D.png">
+  
+* 径向分布（移动步数较少，但还可以看出分布）
+[代码](./三维扩散径向.py) 
+  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/)IW8UT)P7%7B2G_B32%7DA)%24XUL.png">
 ### 结论
 
 * 扩散行为是大量微观粒子随机位移的结果，最终分布符合扩散方程
