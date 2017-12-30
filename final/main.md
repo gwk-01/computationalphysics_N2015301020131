@@ -11,7 +11,7 @@ that this profile extends over at least several grid sites.Then show that at lat
 ### 解答
 * 先考虑一维随机行走问题：
   一个人在一条路上随机行走，每秒钟都有0.5的概率向左或向右行走一步，假设他一共走了10步,则在多次试验后，最终位置将满足分布：
-  [代码](./)
+  [代码](./一维随机行走.py)
   
   假设一共走了100步，则分布变为：
 
@@ -26,10 +26,10 @@ that this profile extends over at least several grid sites.Then show that at lat
 * 因此，我们认为自由扩散与随机行走本质相同
 
 * 将一维扩散扩展到二维情形,即奶油溶于咖啡的问题
-  [](./)
+  [代码](./二维扩散.py)
   
 * 再扩展到三维情形
-  [](./)
+  [代码](./三维扩散.py)
   
 ### 结论
 
