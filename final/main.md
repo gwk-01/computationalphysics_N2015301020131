@@ -66,11 +66,20 @@ that this profile extends over at least several grid sites.Then show that at lat
   
 * 再扩展到三维情形
 * 扩散方程不变
-  <img src="http://latex.codecogs.com/gif.latex?\frac{\partial\,P(x,y,z,t)}{\partial\,t}=D\bigtriangledown\,^{2}P(x,y,z,t)">
+  
+  
+  <img src="http://latex.codecogs.com/gif.latex?\frac{\partial\,P(x,y,z,t)}{\partial\,t}=D\bigtriangledown\,^{2}P(x,y,z,t)">
+
+
 * 初始状态
-  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/93%5D2DQLZ149%7BPHTIH54A%5D%40X.png">
+ 
+ 
+ <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/93%5D2DQLZ149%7BPHTIH54A%5D%40X.png">
+
+
 * 100秒后（等待时间太长）
-   [代码](./三维扩散.py)
+  
+  [代码](./三维扩散.py)
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%255PW5BOAC%24V90V2WD77)Q6D.png">
 ### 结论
