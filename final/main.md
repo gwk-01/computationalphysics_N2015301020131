@@ -16,7 +16,7 @@ that this profile extends over at least several grid sites.Then show that at lat
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%259_V9%256E8%601291Z9)%5DNPY%40A.png">
   
-  假设一共走了100步，则分布变为：
+* 假设一共走了100步，则分布变为：
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%40%40%24QHYP6C%24%7DIUB5LYJBP%25A7.png">
   
