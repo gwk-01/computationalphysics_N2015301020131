@@ -32,11 +32,11 @@ that this profile extends over at least several grid sites.Then show that at lat
   
   <img src="http://latex.codecogs.com/gif.latex?P(x,t)=\frac{1}{\sigma\,}e^{-\frac{x^{2}}{2\sigma\,^{2}}}">
   
-* 将自由扩散与随机行走图像放在一起
-  
+* 将自由扩散与随机行走图像放在一起（未归一化，取σ=0.1后ρ再乘4）
+  
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/9D5~%5DU(NI_%25G4_4SZ_%25%60IKC.png">
   
-### 因此，我们认为自由扩散与随机行走本质相同
+#### 因此，我们认为自由扩散与随机行走本质相同
 
 * 将一维扩散扩展到二维情形,即奶油溶于咖啡的问题
   同理，概率为
@@ -55,7 +55,7 @@ that this profile extends over at least several grid sites.Then show that at lat
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/T%24CD6Q%60CP6SY%609%40G%40%25QDCQH.png">
 
-* 此时系统中粒子的径向分布为(###猜想系综分布应该接近玻尔兹曼分布)
+* 此时系统中粒子的径向分布为(猜想系综分布应该接近玻尔兹曼分布)[代码](./二维扩散径向.py)
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%24L4M%24(%5BXNYGZ%5DVQ%40I%24%7B7N2I.png">
   
