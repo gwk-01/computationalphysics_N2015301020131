@@ -55,7 +55,7 @@ that this profile extends over at least several grid sites.Then show that at lat
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/T%24CD6Q%60CP6SY%609%40G%40%25QDCQH.png">
 
-* 此时系统中粒子的径向分布为
+* 此时系统中粒子的径向分布为(###猜想系综分布应该接近玻尔兹曼分布)
   
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%24L4M%24(%5BXNYGZ%5DVQ%40I%24%7B7N2I.png">
   
