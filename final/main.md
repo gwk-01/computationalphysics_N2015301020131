@@ -12,9 +12,9 @@ that this profile extends over at least several grid sites.Then show that at lat
 * 先考虑一维随机行走问题：
   一个人在一条路上随机行走，每秒钟都有0.5的概率向左或向右行走一步，假设他一共走了10步,则在多次试验后，最终位置将满足分布：
   [代码](./一维随机行走.py)
-  
-  假设一共走了100步，则分布变为：
-
+  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%259_V9%256E8%601291Z9)%5DNPY%40A.png">
+  假设一共走了100步，则分布变为：
+  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%40%40%24QHYP6C%24%7DIUB5LYJBP%25A7.png">
   再从概率分布考虑问题，易知
 <img src="http://latex.codecogs.com/gif.latex?P(x,t)=\frac{1}{2}[P(x-1,t-1)-P(x+1,t-1)]">
   即
@@ -27,10 +27,10 @@ that this profile extends over at least several grid sites.Then show that at lat
 
 * 将一维扩散扩展到二维情形,即奶油溶于咖啡的问题
   [代码](./二维扩散.py)
-  
+  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/T%24CD6Q%60CP6SY%609%40G%40%25QDCQH.png">
 * 再扩展到三维情形
   [代码](./三维扩散.py)
-  
+  <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/%255PW5BOAC%24V90V2WD77)Q6D.png">
 ### 结论
 
 * 扩散行为是大量微观粒子随机位移的结果，最终分布符合扩散方程
