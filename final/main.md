@@ -32,7 +32,8 @@ that this profile extends over at least several grid sites.Then show that at lat
   
   <img src="http://latex.codecogs.com/gif.latex?P(x,t)=\frac{1}{\sigma\,}e^{-\frac{x^{2}}{2\sigma\,^{2}}}">
   
-  将自由扩散与随机行走图像放在一起
+* 将自由扩散与随机行走图像放在一起
+  
   <img src="https://github.com/gwk-01/computationalphysics_N2015301020131/blob/master/final/9D5~%5DU(NI_%25G4_4SZ_%25%60IKC.png">
   
 * 因此，我们认为自由扩散与随机行走本质相同
